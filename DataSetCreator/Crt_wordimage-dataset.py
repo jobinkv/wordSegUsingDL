@@ -1,4 +1,8 @@
 # -*- coding: UTF-8 -*-
+'''
+This code generate document image and putt altogether in picle file
+
+'''
 import numpy as np
 import cv2
 import codecs,subprocess,os,sys,glob
